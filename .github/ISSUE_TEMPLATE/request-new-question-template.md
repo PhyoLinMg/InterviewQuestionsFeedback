@@ -1,5 +1,5 @@
 ---
-name: Request new question  template
+name: Request new question template
 about: This template is for requesting new questions that tag is already existed.
 title: "[Request Questions]"
 labels: Request new question
@@ -7,4 +7,10 @@ assignees: PhyoLinMg
 
 ---
 
-The question you want to request is:
+The **question** you want to request is:
+
+
+The question's **tag**: 
+
+
+The **answer** to that question (optional) is:
